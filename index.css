@@ -84,3 +84,19 @@ li {
 	text-transform: uppercase;
 	font-weight: bold;
 }
+
+/* Articles */
+
+#articles{
+	background-color: rgba(128, 128, 128, 0.274);
+	width: 1400px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: ;
+	flex-wrap: wrap;
+}
+
+.images{
+	width: 500px;
+}
