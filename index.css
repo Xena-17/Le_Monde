@@ -69,7 +69,7 @@ header {
 
 /* Main */
 
-ul {
+#nav {
 	list-style: none;
 	text-align: center;
 	padding: 20px;
@@ -111,4 +111,23 @@ p{
 }
 #fond_screen{
 	background-color: rgba(128, 128, 128, 0.308);
+}
+
+/* footer haut */
+
+#text{
+	width: 1400 px;
+}
+
+.puce {
+	display: flex;
+	flex-direction:row;
+	margin: auto;
+	max-width: 1400px;
+	justify-content:flex-start;
+	align-items:center;
+}
+.puce li{
+	padding: 10px;
+	margin: auto;
 }
