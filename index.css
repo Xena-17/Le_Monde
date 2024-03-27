@@ -146,6 +146,7 @@ footer {
 	flex-wrap: wrap;
 	max-width: 60%;
 	margin: auto;
+	padding: 24px 0;
 }
 .reseaux-sociaux {
 	display: flex;
@@ -157,6 +158,7 @@ footer {
 }
 .footer-bas li {
 	padding: 0 24px;
+	list-style: none;
 }
 .footer-bas li p {
 	text-transform:initial;
