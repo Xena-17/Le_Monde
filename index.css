@@ -98,5 +98,15 @@ li {
 }
 
 .images{
-	width: 500px;
+	width: 600px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	padding: 0 10px;
+	
+}
+p{
+	font-weight: bold;
+	padding:  10px;
+	margin: auto;
 }
