@@ -80,7 +80,7 @@ ul {
 	align-items: center;
 }
 
-li {
+.nav {
 	text-transform: uppercase;
 	font-weight: bold;
 }
