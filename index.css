@@ -88,7 +88,6 @@ li {
 /* Articles */
 
 #articles{
-	background-color: rgba(128, 128, 128, 0.274);
 	width: 1400px;
 	display: flex;
 	flex-direction: row;
@@ -109,4 +108,7 @@ p{
 	font-weight: bold;
 	padding:  10px;
 	margin: auto;
+}
+#fond_screen{
+	background-color: rgba(128, 128, 128, 0.308);
 }
