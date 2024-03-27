@@ -126,6 +126,8 @@ p{
 	max-width: 1400px;
 	justify-content:flex-start;
 	align-items:center;
+	border-bottom: 2px black solid;
+	padding: 20px;
 }
 .puce li{
 	padding: 10px;
